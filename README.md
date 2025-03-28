@@ -41,3 +41,6 @@
 ##  Creativity in AI Query Simulation  
 - Randomized yet realistic data generation for queries.   
 - Dynamic chart updates based on query selection.  
+
+##  Preview
+![project-preview](https://github.com/khushinegi01/GEN-AI-Dashboard/blob/main/gen-ai-dashboard/public/Project-preview.png?raw=true)
